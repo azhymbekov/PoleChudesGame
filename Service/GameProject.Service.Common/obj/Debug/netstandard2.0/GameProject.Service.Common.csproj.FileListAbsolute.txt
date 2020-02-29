@@ -1,0 +1,12 @@
+D:\Projects\Gameroject\Service\GameProject.Service.Common\bin\Debug\netstandard2.0\GameProject.Service.Common.deps.json
+D:\Projects\Gameroject\Service\GameProject.Service.Common\bin\Debug\netstandard2.0\GameProject.Service.Common.dll
+D:\Projects\Gameroject\Service\GameProject.Service.Common\bin\Debug\netstandard2.0\GameProject.Service.Common.pdb
+D:\Projects\Gameroject\Service\GameProject.Service.Common\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+D:\Projects\Gameroject\Service\GameProject.Service.Common\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.csprojAssemblyReference.cache
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.AssemblyInfoInputs.cache
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.AssemblyInfo.cs
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.csproj.CopyComplete
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.dll
+D:\Projects\Gameroject\Service\GameProject.Service.Common\obj\Debug\netstandard2.0\GameProject.Service.Common.pdb

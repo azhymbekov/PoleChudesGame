@@ -1,0 +1,9 @@
+D:\Projects\Gameroject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.deps.json
+D:\Projects\Gameroject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.dll
+D:\Projects\Gameroject\GameProject.Common\bin\Debug\netstandard2.0\GameProject.Common.pdb
+D:\Projects\Gameroject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.csprojAssemblyReference.cache
+D:\Projects\Gameroject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.csproj.CoreCompileInputs.cache
+D:\Projects\Gameroject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfoInputs.cache
+D:\Projects\Gameroject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.AssemblyInfo.cs
+D:\Projects\Gameroject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.dll
+D:\Projects\Gameroject\GameProject.Common\obj\Debug\netstandard2.0\GameProject.Common.pdb

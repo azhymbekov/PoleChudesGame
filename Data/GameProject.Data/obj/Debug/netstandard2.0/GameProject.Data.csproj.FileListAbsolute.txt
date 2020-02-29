@@ -1,0 +1,16 @@
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.deps.json
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.dll
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.pdb
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Common.dll
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Models.dll
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\ProjectGame.Data.Common.dll
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Common.pdb
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\GameProject.Data.Models.pdb
+D:\Projects\Gameroject\Data\GameProject.Data\bin\Debug\netstandard2.0\ProjectGame.Data.Common.pdb
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csprojAssemblyReference.cache
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfoInputs.cache
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.AssemblyInfo.cs
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.csproj.CopyComplete
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.dll
+D:\Projects\Gameroject\Data\GameProject.Data\obj\Debug\netstandard2.0\GameProject.Data.pdb
